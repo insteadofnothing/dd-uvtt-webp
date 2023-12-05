@@ -1,0 +1,8 @@
+{
+	"name": "UVTT WebP Exporter",
+	"unique_id": "insteadofnothing.UvttWebPExporter",
+	"version": "1.0.0",
+	"author": "insteadofnothing",
+	"description": "Export Universal VTT maps using WebP rather than PNG.",
+	"dd_version": "1.1.0.0"
+}
